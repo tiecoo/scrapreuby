@@ -1,0 +1,1 @@
+Little Scrapper using ruby, just to learn
